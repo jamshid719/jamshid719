@@ -6,5 +6,5 @@
 <code><img src="https://pngdownload.io/wp-content/uploads/2023/12/CSS-Logo-PNG-Symbol-for-Web-Development-Transparent-jpg.webp" height="25"></code>
 <code><img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" height="25"></code>//
 
-<br>
-- 📍 &nbsp; Current location: South Korea
+
+
